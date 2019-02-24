@@ -10,4 +10,4 @@ _Tabular Document Analysis Research Group at ISDCT SB RAS_
 - [tabbyxl](https://github.com/tabbydoc/tabbyxl), _Rule-based spreadsheet data extraction and transformation_
 - [tabbyld](https://github.com/tabbydoc/tabbyld), _Semantic table interpretation_
 
-See also [tabbydoc](http://td.icc.ru)
+See also [http://td.icc.ru](http://td.icc.ru)
