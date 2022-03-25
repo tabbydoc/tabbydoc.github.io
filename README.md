@@ -4,7 +4,7 @@ _Table Understanding Project at ISDCT SB RAS_
 
 ### About
 
-This research project aims at developing methods and software for extraction of entities and their relationships from tables represented in unstructured and semi-structured data formats.
+This research project aims at developing methods and software for extraction of entities and their relationships from tables represented in unstructured and semi-structured data formats
 
 [The presentation on the topic is available at Figshare](https://doi.org/10.6084/m9.figshare.14836122.v1)
 
@@ -158,6 +158,6 @@ The research project was supported by the Russian Science Foundation (grant no
 ### Contacts
 
 Office 222, Block EVM, Lermontov st. 134, Irkutsk, Russia, 664033
-Department of Information Technology and Systems, Matrosov Institute for System Dynamics and Control Theory, Siberian Branch of the Russian Academy of Sciences.
+Department of Information Technology and Systems, Matrosov Institute for System Dynamics and Control Theory, Siberian Branch of the Russian Academy of Sciences
 
 Alexey Shigarov (e-mail: shigarov@gmail.com)
