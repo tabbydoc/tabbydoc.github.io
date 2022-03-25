@@ -8,7 +8,7 @@ This research project aims at developing methods and software for extraction of 
 
 [The presentation on the topic is available at Figshare](https://doi.org/10.6084/m9.figshare.14836122.v1)
 
-The research project was supported by the Russian Science Foundation (grant no. [18-71-10001](http://rscf.ru/en/enprjcard/?rid=18-71-10001)). The prior works were supported by the Russian Foundation for Basic Research (grant no. [12-07-31051](http://www.rfbr.ru/rffi/ru/project_search/o_1886144) and grant no. [15-37-20042](http://www.rfbr.ru/rffi/ru/contest/o_1954536)) and the Council for grants of the President of the Russian Federation (Scholarship No. [SP-3387.2013.5](https://grants.extech.ru/grants/res/winners.php?OZ=5&TZ=U&year=2013))
+This work was supported by the Russian Science Foundation (grant no. [18-71-10001](http://rscf.ru/en/enprjcard/?rid=18-71-10001)). Our prior works were supported by the Russian Foundation for Basic Research (grant no. [12-07-31051](http://www.rfbr.ru/rffi/ru/project_search/o_1886144) and grant no. [15-37-20042](http://www.rfbr.ru/rffi/ru/contest/o_1954536)) and the Council for grants of the President of the Russian Federation (Scholarship No. [SP-3387.2013.5](https://grants.extech.ru/grants/res/winners.php?OZ=5&TZ=U&year=2013))
 
 
 ### Repositories
