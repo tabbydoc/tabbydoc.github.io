@@ -1,10 +1,10 @@
-## TabbyDOC
+# TabbyDOC
 
 _Table Understanding Research_
 
 ### About
 
-This research project aims at developing methods and software for extraction of entities and their relationships from tables represented in unstructured and semi-structured data formats
+This research project aims at developing methods and software for the extraction of entities and their relationships from tables represented in unstructured and semi-structured data formats
 
 [The presentation on the topic is available at Figshare](https://doi.org/10.6084/m9.figshare.14836122.v1)
 
