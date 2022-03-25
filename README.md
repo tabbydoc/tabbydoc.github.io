@@ -1,6 +1,6 @@
 ## TabbyDOC
 
-_Table Understanding Project at ISDCT SB RAS_
+_Table Understanding Research_
 
 ### About
 
