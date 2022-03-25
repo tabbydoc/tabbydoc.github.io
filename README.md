@@ -1,10 +1,10 @@
-## TabbyDOC
+## About
 
 _Tabular Document Analysis Research Group at ISDCT SB RAS_
 
 Our aim is to develop a methodology and software for automating the conversion of tabular data from unstructured to a structured form. We create possibilities for extracting and transforming data from arbitrary tables presented in text documents and spreadsheets, for both loading them into relational databases and storing as linked data.
 
-### Projects
+## Projects
 
 - [tabbypdf2](https://github.com/tabbydoc/tabbypdf2), _PDF table extraction_
 - [tabbyxl](https://github.com/tabbydoc/tabbyxl), _Rule-based spreadsheet data extraction and transformation_
@@ -12,9 +12,9 @@ Our aim is to develop a methodology and software for automating the conversion o
 
 See also [http://td.icc.ru](http://td.icc.ru)
 
-### Publications
+## Publications
 
-#### 2021
+### 2021
 
 *   Dorodnykh N., Yurin A., Shigarov A., Turdakov D. (2021). Ontology engineering at the assertion level based on semantic annotation of tabular data. _2021 Ivannikov Memorial Workshop (IVMEM)_. 28-34. [https://doi.org/10.1109/IVMEM53963.2021.00011](https://doi.org/10.1109/IVMEM53963.2021.00011)
   
@@ -24,7 +24,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
   
 *   Dorodnykh N., Yurin A. (2021). TabbyLD: a tool for semantic interpretation of spreadsheets data. _Modelling and Development of Intelligent Systems. MDIS 2020._ CCIS 1341, 315-333. [https://doi.org/10.1007/978-3-030-68527-0\_20](https://doi.org/10.1007/978-3-030-68527-0_20)
 
-#### 2020
+### 2020
 
 *   Mikhailov A., Shigarov A., Rozhkov E., Cherepanov I. (2020). On graph-based verification for PDF table detection. _2020 Ivannikov ISPRAS Open Conference (ISPRAS)_. 91-95. [https://doi.org/10.1109/ISPRAS51486.2020.00020](https://doi.org/10.1109/ISPRAS51486.2020.00020)
   
@@ -40,7 +40,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
   
 *   Paramonov, V., Shigarov, A., Vetrova, V., Mikhailov, A. (2020). Heuristic algorithm for recovering a physical structure of spreadsheet header. _Information Systems Architecture and Technology._ 1050 AISC, 140-149. [https://doi.org/10.1007/978-3-030-30440-9\_14](https://doi.org/10.1007/978-3-030-30440-9_14)
 
-#### 2019
+### 2019
 
 *   Yurin A. & Dorodnykh N. (2019). A reverse engineering process for inferring conceptual models from canonicalized tables. _2019 Int. Multi-Conf. on Engineering, Computer and Information Sciences (SIBIRCON)._ 0485-0490. [https://doi.org/10.1109/SIBIRCON48586.2019.8958458](https://doi.org/10.1109/SIBIRCON48586.2019.8958458)
   
@@ -67,7 +67,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
 *   Paramonov, V., Shigarov, A., Ruzhnikov, G., Cherkashin, E. (2019). Phonetic string matching for languages with Cyrillic alphabet. _Information Systems Architecture and Technology._ 852 AISC, 301-311. [https://doi.org/10.1007/978-3-319-99981-4\_28](https://doi.org/10.1007/978-3-319-99981-4_28)  
     [Preprint](http://td.icc.ru/files/publ/2019_paramonov_isat.pdf)
 
-#### 2018
+### 2018
 
 *   Shigarov, A., Altaev, A., Mikhailov, A., Paramonov, V., Cherkashin, E. (2018). TabbyPDF: web-based system for PDF table extraction. _Information and Software Technologies._ 920 CCIS, 257-269. [https://doi.org/10.1007/978-3-319-99972-2\_20](https://doi.org/10.1007/978-3-319-99972-2_20)  
     [Preprint](http://td.icc.ru/files/publ/2018_shigarov_icist.pdf)
@@ -77,7 +77,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
 *   Cherkashin, E., Kopaygorodsky, A., Kazi, L., Shigarov, A., Paramonov, V. (2018). Model driven architecture implementation using linked data. _Information and Software Technologies._ 920 CCIS, 412-423. [https://doi.org/10.1007/978-3-319-99972-2\_34](https://doi.org/10.1007/978-3-319-99972-2_34)  
     [Preprint](http://td.icc.ru/files/publ/2018_cherkashin_icist.pdf)
 
-#### 2017
+### 2017
 
 *   Shigarov, A., Mikhailov, A. (2017). Rule-based spreadsheet data transformation from arbitrary to relational tables. _Information Systems._ 71, 123-136. [https://doi.org/10.1016/j.is.2017.08.004](https://doi.org/10.1016/j.is.2017.08.004)  
     [Preprint](http://td.icc.ru/files/publ/2017_shigarov_infsys.pdf)
@@ -97,7 +97,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
 *   Шигаров, А. (2016). Методологическое и программное обеспечение трансформации табличных данных от произвольной к реляционной форме. _Научная секция заседания Объединенного ученного совета СО РАН по нанотехнологиям и информационным технологиям_.  
     [Presentation](http://td.icc.ru/files/publ/2016_shigarov_onit_presentation.pdf)
 
-#### 2015
+### 2015
 
 *   Shigarov, A. (2015). Table understanding using a rule engine. _Expert Systems with Applications._ 42(2), 929-937. [https://doi.org/10.1016/j.eswa.2014.08.045](https://doi.org/10.1016/j.eswa.2014.08.045)  
     [Preprint](http://td.icc.ru/files/publ/2015_shigarov_eswa.pdf)  
@@ -113,7 +113,7 @@ See also [http://td.icc.ru](http://td.icc.ru)
     [Article](http://ceur-ws.org/Vol-1536/paper3.pdf)  
     [Presentation](http://td.icc.ru/files/publ/2015_shigarov_damdid_presentation.pdf)
 
-#### 2014
+### 2014
 
 *   Шигаров, А. О. (2014). Восстановление логической структуры таблиц из неструктурированных текстов на основе логического вывода. _Вычислительные технологии._ 19(1), 87-99.  
     [Preprint](http://td.icc.ru/files/publ/2014_shigarov_zhvt.pdf)
@@ -121,17 +121,17 @@ See also [http://td.icc.ru](http://td.icc.ru)
 *   Shigarov, A. (2014). Automated table understanding using a rule engine. _CEUR-WS Proc._ 1297, 216-223.  
     [Article](http://ceur-ws.org/Vol-1297/216-223_paper-31.pdf)
 
-#### 2013
+### 2013
 
 *   Шигаров, А. О., Бычков, И. В., Ружников, Г. М., Хмельнов, А. Е., Федоров, Р. К. (2013). Система трансформации таблиц. _Информационные технологии и вычислительные системы._ 3, 15-26.  
     [Preprint](http://td.icc.ru/files/publ/2013_shigarov_itvs.pdf)
 
-#### 2011
+### 2011
 
 *   Shigarov, A., Fedorov, R. (2011). Simple algorithm for page layout analysis. _Pattern Recognition and Image Analysis._ 21(2), 324-327. [https://doi.org/10.1134/S1054661811021008](https://doi.org/10.1134/S1054661811021008)  
     [Preprint](http://td.icc.ru/files/publ/2011_shigarov_pria.pdf)
 
-#### 2009
+### 2009
 
 *   Шигаров, А. О. (2009). Технология извлечения табличной информации из электронных документов разных форматов. _Дис. канд. техн. наук._  
     [PhD Thesis](http://td.icc.ru/files/publ/2009_shigarov_phd_thesis.pdf)  
@@ -145,7 +145,9 @@ See also [http://td.icc.ru](http://td.icc.ru)
 *   Бычков, И. В., Ружников, Г. М., Хмельнов, А. Е., Шигаров, А. О. (2009). Эвристический метод обнаружения таблиц в разноформатных документах. _Вычислительные технологии._ 14(2), 58-73.  
     [Preprint](http://td.icc.ru/files/publ/2009_bychkov_zhvt.pdf)
 
-#### 2008
+### 2008
 
 *   Хмельнов, А. Е., Шигаров, А. О. (2008). Метод извлечения таблиц из неформатированного текста. _Вычислительные технологии._ 13(1), 93-101.  
     [Preprint](http://td.icc.ru/files/publ/2008_khmelnov_zhvt.pdf)
+
+## Contacts
