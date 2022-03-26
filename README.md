@@ -2,6 +2,8 @@
 
 _Table Understanding Research_
 
+![Abstract](/docs/assets/images/abstract.svg)
+
 ## About
 
 This research project aims at developing methods and software for the extraction of entities and their relationships from tables represented in unstructured and semi-structured data formats
