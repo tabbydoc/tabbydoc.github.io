@@ -2,7 +2,7 @@
 
 _Table Understanding Research_
 
-![Abstract](/docs/assets/images/abstract.svg)
+![Abstract](/docs/assets/images/abstract.svg){width=100%}
 
 ## About
 
