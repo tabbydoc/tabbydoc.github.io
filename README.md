@@ -2,7 +2,7 @@
 
 _Table Understanding Research_
 
-![Abstract](/least-github-pages/assets/images/abstract.svg)
+![Abstract](/docs/assets/images/abstract.svg)
 
 ## About
 
