@@ -25,6 +25,10 @@ This work was supported by the Russian Science Foundation (grant no. [18-71-10
 
 ### 2022
 
+* Shigarov A. (2022). Table understanding: Problem overview. _WIREs Data Mining and Knowledge Discovery_, 13(1), e1482. [https://doi.org/10.1002/widm.1482]( https://doi.org/10.1002/widm.1482)
+
+* Kostyleva O., Paramonov V., Shigarov A., Vetrova V. (2022). Towards comparison of table type taxonomies. _45th Jubilee Int. Conv. on Information, Communication and Electronic Technology (MIPRO)_, 1461-1465. [https://doi.org/10.23919/MIPRO55190.2022.9803520](https://doi.org/10.23919/MIPRO55190.2022.9803520).
+
 ### 2021
 
 *   Dorodnykh N., Yurin A., Shigarov A., Turdakov D. (2021). Ontology engineering at the assertion level based on semantic annotation of tabular data. _2021 Ivannikov Memorial Workshop (IVMEM)_. 28-34. [https://doi.org/10.1109/IVMEM53963.2021.00011](https://doi.org/10.1109/IVMEM53963.2021.00011)
