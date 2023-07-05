@@ -37,7 +37,9 @@ This work was supported by the Russian Science Foundation (grant no. [18-71-10
 
 *    Dorodnykh N., Shigarov A., Yurin A. (2022). Using the semantic annotation of web table data for knowledge base construction. _Proc. 4th Artificial Intelligence and Cloud Computing Conference. AICCC'21_, 122-129. [https://doi.org/10.1145/3508259.3508277](https://doi.org/10.1145/3508259.3508277)
 
-*    Dorodnykh N., Yurin A. (2022). Extraction of facts from web-tables based on semantic interpretation tabular data. _2022 Ivannikov Memorial Workshop (IVMEM)_, 7-17, [https://doi.org/10.1109/IVMEM57067.2022.9983959](https://doi.org/10.1109/IVMEM57067.2022.9983959)
+*    Dorodnykh N., Yurin A. (2022). Extraction of facts from web-tables based on semantic interpretation tabular data. _2022 Ivannikov Memorial Workshop (IVMEM)_, 7-17. [https://doi.org/10.1109/IVMEM57067.2022.9983959](https://doi.org/10.1109/IVMEM57067.2022.9983959)
+
+*    Mikhailov A., Shigarov A. Page layout analysis for refining table extraction from PDF documents. _2021 Ivannikov Ispras Open Conference (ISPRAS)_, 114-119. [https://doi.org/10.1109/ISPRAS53967.2021.00021](https://doi.org/10.1109/ISPRAS53967.2021.00021)
 
 ### 2020
 
