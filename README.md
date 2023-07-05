@@ -35,7 +35,9 @@ This work was supported by the Russian Science Foundation (grant no. [18-71-10
   
 *   Dorodnykh N., Yurin A. (2021). TabbyLD: a tool for semantic interpretation of spreadsheets data. _Modelling and Development of Intelligent Systems. MDIS 2020._ CCIS 1341, 315-333. [https://doi.org/10.1007/978-3-030-68527-0\_20](https://doi.org/10.1007/978-3-030-68527-0_20)
 
-*    Dorodnykh N., Shigarov A., Yurin A. (2022). Using the semantic annotation of web table data for knowledge base construction. Proc. AICCC'21, 122-129. [https://doi.org/10.1145/3508259.3508277](https://doi.org/10.1145/3508259.3508277)
+*    Dorodnykh N., Shigarov A., Yurin A. (2022). Using the semantic annotation of web table data for knowledge base construction. _Proc. 4th Artificial Intelligence and Cloud Computing Conference. AICCC'21_, 122-129. [https://doi.org/10.1145/3508259.3508277](https://doi.org/10.1145/3508259.3508277)
+
+*    Dorodnykh N., Yurin A. (2022). Extraction of facts from web-tables based on semantic interpretation tabular data. _2022 Ivannikov Memorial Workshop (IVMEM)_, 7-17, [https://doi.org/10.1109/IVMEM57067.2022.9983959](https://doi.org/10.1109/IVMEM57067.2022.9983959)
 
 ### 2020
 
