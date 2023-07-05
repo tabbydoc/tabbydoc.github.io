@@ -23,6 +23,8 @@ This work was supported by the Russian Science Foundation (grant no. [18-71-10
 
 ## Publications
 
+### 2022
+
 ### 2021
 
 *   Dorodnykh N., Yurin A., Shigarov A., Turdakov D. (2021). Ontology engineering at the assertion level based on semantic annotation of tabular data. _2021 Ivannikov Memorial Workshop (IVMEM)_. 28-34. [https://doi.org/10.1109/IVMEM53963.2021.00011](https://doi.org/10.1109/IVMEM53963.2021.00011)
@@ -32,6 +34,8 @@ This work was supported by the Russian Science Foundation (grant no. [18-71-10
 *   Paramonov V., Shigarov A., Vetrova V. (2021). Rule-driven spreadsheet data extraction from statistical tables: case study. _Information and Software Technologies. ICIST 2021_. CCIS 1486, 84-95. [https://doi.org/10.1007/978-3-030-88304-1\_7](https://doi.org/10.1007/978-3-030-88304-1_7)
   
 *   Dorodnykh N., Yurin A. (2021). TabbyLD: a tool for semantic interpretation of spreadsheets data. _Modelling and Development of Intelligent Systems. MDIS 2020._ CCIS 1341, 315-333. [https://doi.org/10.1007/978-3-030-68527-0\_20](https://doi.org/10.1007/978-3-030-68527-0_20)
+
+*    Dorodnykh N., Shigarov A., Yurin A. (2022). Using the semantic annotation of web table data for knowledge base construction. Proc. AICCC'21, 122-129. [https://doi.org/10.1145/3508259.3508277](https://doi.org/10.1145/3508259.3508277)
 
 ### 2020
 
